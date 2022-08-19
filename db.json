@@ -1,0 +1,16 @@
+{
+  "focusOut": [
+    {
+      "timestamp": "2022-08-19T12:45:12.934Z",
+      "url": "http://localhost:3000/",
+      "type": "blur",
+      "id": "8gm4Bk"
+    },
+    {
+      "timestamp": "2022-08-18T21:03:43.170Z",
+      "url": "http://localhost:3000/Su3Z9L/details",
+      "type": "blur",
+      "id": "X525Hdl"
+    }
+  ]
+}
